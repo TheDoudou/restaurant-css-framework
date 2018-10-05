@@ -1,0 +1,1 @@
+<footer><div class="pt-5 pb-5 text-center"><p>Un super pied de page pour toi <a href="https://jonathanfauchoux.github.io/restaurant-css-framework.github.io/index.html">Jonathan</a> qui à aussi un super resto ;).</p><p><a href="https://github.com/TheDoudou/restaurant-css-framework">Repo GitHub</a></div></footer>
