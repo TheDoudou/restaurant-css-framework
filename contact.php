@@ -49,7 +49,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 					<div class="col-6 pb-2"><input class="form-control" type="value" name="sujet" placeholder="Sujet" value="<?php echo $_POST['sujet']; ?>"></div>
 					<div class="col-12"><label for="mesage">Message :</label></div>
 					<div class="col-12 pb-3"><textarea class="form-control" name="message" rows="3" placeholder="Message"><?php echo $_POST['message']; ?></textarea></div>
-					<div class="col-12"><button class="btn btn-primary" type="button">Envois du formulaire &<img class="img-send" src="assets/img/sent-mail.svg" alt="envois formulaire"></button></div>
+					<div class="col-12"><button class="btn btn-primary" type="button">Envois du formulaire &nbsp;<img class="img-send" src="assets/img/sent-mail.svg" alt="envois formulaire"></button></div>
 				</div>
 			</form>
 			<?
